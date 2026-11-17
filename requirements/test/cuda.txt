@@ -4259,8 +4259,9 @@ perceptron==0.1.4 \
     --hash=sha256:62fd190efb74925e2cc33c0cd38761e19959be3bdb7b24fbf9e3386d6961f690 \
     --hash=sha256:f490a6df6c15167e91e1a528601cae98ce99a30991cf792f9ef83ebc15d335c4
     # via -r requirements/test/cuda.in
-perf-analyzer==0.1.0 \
-    --hash=sha256:3c7d7b790b0fbcfcd478063f7d1450dbaa5e71c127a25ee810841d1a06bc5748
+perf-analyzer==2.60.0 \
+    --hash=sha256:23ef56b107ae9233e5cf09fbdf508dd9b936a52f1bae2f63f53c8117087b3f25 \
+    --hash=sha256:c2ece0adb7760ea1abc258222d80bf8e367fa9639401406b96da2c9b55131d29
     # via genai-perf
 pillow==13.0.0 \
     --hash=sha256:02464da86f561f410e13b061ec37c3068a9cb557a095494157742d07b3c24a27 \
